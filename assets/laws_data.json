@@ -1,0 +1,897 @@
+[
+  {
+    "law": "IPC",
+    "section": "Section 34",
+    "title": "Common Intention",
+    "category": "Criminal Law",
+    "content": "When a criminal act is done by several persons in furtherance of common intention, each person is liable as if the act were done individually.",
+    "keywords": ["common intention", "group crime"],
+    "cases": ["Mahbub Shah v Emperor"]
+  },
+  {
+    "law": "IPC",
+    "section": "Section 107",
+    "title": "Abetment",
+    "category": "Criminal Law",
+    "content": "A person abets an offence by instigating, engaging in conspiracy, or intentionally aiding the commission of an offence.",
+    "keywords": ["abetment", "instigation"],
+    "cases": ["Ramesh Kumar v State of Chhattisgarh"]
+  },
+  {
+    "law": "IPC",
+    "section": "Section 120B",
+    "title": "Criminal Conspiracy",
+    "category": "Criminal Law",
+    "content": "Agreement between two or more persons to commit an illegal act constitutes criminal conspiracy.",
+    "keywords": ["conspiracy"],
+    "cases": ["State v Nalini"]
+  },
+  {
+    "law": "IPC",
+    "section": "Section 141",
+    "title": "Unlawful Assembly",
+    "category": "Criminal Law",
+    "content": "An assembly of five or more persons with a common unlawful object is an unlawful assembly.",
+    "keywords": ["riot", "assembly"],
+    "cases": []
+  },
+  {
+    "law": "IPC",
+    "section": "Section 299",
+    "title": "Culpable Homicide",
+    "category": "Criminal Law",
+    "content": "Whoever causes death with intention or knowledge commits culpable homicide.",
+    "keywords": ["homicide", "death"],
+    "cases": ["State of AP v Rayavarapu Punnayya"]
+  },
+  {
+    "law": "IPC",
+    "section": "Section 300",
+    "title": "Murder",
+    "category": "Criminal Law",
+    "content": "Culpable homicide is murder if the act is done with intention to cause death.",
+    "keywords": ["murder"],
+    "cases": ["Virsa Singh v State of Punjab"]
+  },
+  {
+    "law": "IPC",
+    "section": "Section 302",
+    "title": "Punishment for Murder",
+    "category": "Criminal Law",
+    "content": "Whoever commits murder shall be punished with death or imprisonment for life.",
+    "keywords": ["murder punishment"],
+    "cases": ["Bachan Singh v State of Punjab"]
+  },
+  {
+    "law": "IPC",
+    "section": "Section 304A",
+    "title": "Causing Death by Negligence",
+    "category": "Criminal Law",
+    "content": "Causing death by rash or negligent act not amounting to culpable homicide is punishable.",
+    "keywords": ["negligence"],
+    "cases": ["Jacob Mathew v State of Punjab"]
+  },
+  {
+    "law": "IPC",
+    "section": "Section 307",
+    "title": "Attempt to Murder",
+    "category": "Criminal Law",
+    "content": "Whoever attempts to commit murder shall be punished.",
+    "keywords": ["attempt murder"],
+    "cases": []
+  },
+  {
+    "law": "IPC",
+    "section": "Section 323",
+    "title": "Voluntarily Causing Hurt",
+    "category": "Criminal Law",
+    "content": "Whoever voluntarily causes hurt shall be punished.",
+    "keywords": ["hurt"],
+    "cases": []
+  },
+
+  {
+    "law": "IPC",
+    "section": "Section 354",
+    "title": "Outraging Modesty of Woman",
+    "category": "Criminal Law",
+    "content": "Assault or criminal force with intent to outrage modesty of a woman.",
+    "keywords": ["harassment"],
+    "cases": ["State v Major Singh"]
+  },
+  {
+    "law": "IPC",
+    "section": "Section 376",
+    "title": "Rape",
+    "category": "Criminal Law",
+    "content": "Punishment for rape as defined under IPC.",
+    "keywords": ["rape", "sexual assault"],
+    "cases": ["Mukesh v State (Nirbhaya)"]
+  },
+  {
+    "law": "IPC",
+    "section": "Section 378",
+    "title": "Theft",
+    "category": "Criminal Law",
+    "content": "Dishonest removal of movable property out of possession of any person.",
+    "keywords": ["theft", "stealing"],
+    "cases": []
+  },
+  {
+    "law": "IPC",
+    "section": "Section 390",
+    "title": "Robbery",
+    "category": "Criminal Law",
+    "content": "Theft accompanied by violence or fear of instant death.",
+    "keywords": ["robbery"],
+    "cases": []
+  },
+  {
+    "law": "IPC",
+    "section": "Section 420",
+    "title": "Cheating",
+    "category": "Criminal Law",
+    "content": "Cheating and dishonestly inducing delivery of property.",
+    "keywords": ["fraud", "cheating"],
+    "cases": ["Hridaya Ranjan v State of Bihar"]
+  },
+
+  {
+    "law": "CrPC",
+    "section": "Section 41",
+    "title": "Arrest without Warrant",
+    "category": "Criminal Procedure",
+    "content": "Police may arrest without warrant in cognizable offences.",
+    "keywords": ["arrest"],
+    "cases": ["DK Basu v State of West Bengal"]
+  },
+  {
+    "law": "CrPC",
+    "section": "Section 50",
+    "title": "Grounds of Arrest",
+    "category": "Criminal Procedure",
+    "content": "Person arrested must be informed of the grounds of arrest.",
+    "keywords": ["arrest rights"],
+    "cases": []
+  },
+  {
+    "law": "CrPC",
+    "section": "Section 154",
+    "title": "First Information Report (FIR)",
+    "category": "Criminal Procedure",
+    "content": "Information relating to cognizable offence shall be recorded as FIR.",
+    "keywords": ["fir", "complaint"],
+    "cases": ["Lalita Kumari v Govt of UP"]
+  },
+  {
+    "law": "CrPC",
+    "section": "Section 438",
+    "title": "Anticipatory Bail",
+    "category": "Criminal Procedure",
+    "content": "High Court or Sessions Court may grant bail before arrest.",
+    "keywords": ["bail"],
+    "cases": ["Gurbaksh Singh v State of Punjab"]
+  },
+  {
+    "law": "Constitution of India",
+    "section": "Article 21",
+    "title": "Right to Life and Personal Liberty",
+    "category": "Constitutional Law",
+    "content": "No person shall be deprived of life or personal liberty except according to procedure established by law.",
+    "keywords": ["life", "liberty"],
+    "cases": ["Maneka Gandhi v Union of India"]
+  },
+  {
+    "law": "IPC",
+    "section": "Section 379",
+    "title": "Punishment for Theft",
+    "category": "Criminal Law",
+    "content": "Whoever commits theft shall be punished with imprisonment up to three years, or fine, or both.",
+    "keywords": ["theft punishment"],
+    "cases": []
+  },
+  {
+    "law": "IPC",
+    "section": "Section 392",
+    "title": "Punishment for Robbery",
+    "category": "Criminal Law",
+    "content": "Whoever commits robbery shall be punished with rigorous imprisonment up to ten years and fine.",
+    "keywords": ["robbery punishment"],
+    "cases": []
+  },
+  {
+    "law": "IPC",
+    "section": "Section 395",
+    "title": "Dacoity",
+    "category": "Criminal Law",
+    "content": "When five or more persons commit robbery, it is called dacoity.",
+    "keywords": ["dacoity"],
+    "cases": []
+  },
+  {
+    "law": "IPC",
+    "section": "Section 406",
+    "title": "Criminal Breach of Trust",
+    "category": "Criminal Law",
+    "content": "Dishonest misappropriation or conversion of entrusted property.",
+    "keywords": ["breach of trust"],
+    "cases": []
+  },
+  {
+    "law": "IPC",
+    "section": "Section 409",
+    "title": "Criminal Breach of Trust by Public Servant",
+    "category": "Criminal Law",
+    "content": "Breach of trust committed by public servant, banker, merchant or agent.",
+    "keywords": ["public servant", "corruption"],
+    "cases": []
+  },
+  {
+    "law": "IPC",
+    "section": "Section 463",
+    "title": "Forgery",
+    "category": "Criminal Law",
+    "content": "Making false document with intent to cause damage or fraud.",
+    "keywords": ["forgery"],
+    "cases": []
+  },
+  {
+    "law": "IPC",
+    "section": "Section 468",
+    "title": "Forgery for Purpose of Cheating",
+    "category": "Criminal Law",
+    "content": "Forgery committed for the purpose of cheating.",
+    "keywords": ["forgery", "cheating"],
+    "cases": []
+  },
+  {
+    "law": "IPC",
+    "section": "Section 471",
+    "title": "Using Forged Document",
+    "category": "Criminal Law",
+    "content": "Using as genuine a forged document knowing it to be forged.",
+    "keywords": ["fake document"],
+    "cases": []
+  },
+  {
+    "law": "IPC",
+    "section": "Section 499",
+    "title": "Defamation",
+    "category": "Criminal Law",
+    "content": "Making or publishing any imputation harming reputation of a person.",
+    "keywords": ["defamation"],
+    "cases": ["Subramanian Swamy v Union of India"]
+  },
+  {
+    "law": "IPC",
+    "section": "Section 500",
+    "title": "Punishment for Defamation",
+    "category": "Criminal Law",
+    "content": "Punishment for defamation is simple imprisonment up to two years, or fine, or both.",
+    "keywords": ["defamation punishment"],
+    "cases": []
+  },
+
+  {
+    "law": "CrPC",
+    "section": "Section 167",
+    "title": "Procedure when Investigation not Completed",
+    "category": "Criminal Procedure",
+    "content": "Magistrate may authorize detention if investigation is incomplete within 24 hours.",
+    "keywords": ["remand"],
+    "cases": ["CBI v Anupam Kulkarni"]
+  },
+  {
+    "law": "CrPC",
+    "section": "Section 173",
+    "title": "Police Report (Charge Sheet)",
+    "category": "Criminal Procedure",
+    "content": "Police shall submit final report after completing investigation.",
+    "keywords": ["charge sheet"],
+    "cases": []
+  },
+  {
+    "law": "CrPC",
+    "section": "Section 190",
+    "title": "Cognizance of Offences by Magistrate",
+    "category": "Criminal Procedure",
+    "content": "Magistrate may take cognizance upon complaint, police report or information.",
+    "keywords": ["cognizance"],
+    "cases": []
+  },
+  {
+    "law": "CrPC",
+    "section": "Section 200",
+    "title": "Examination of Complainant",
+    "category": "Criminal Procedure",
+    "content": "Magistrate shall examine complainant upon receiving complaint.",
+    "keywords": ["complaint procedure"],
+    "cases": []
+  },
+  {
+    "law": "CrPC",
+    "section": "Section 313",
+    "title": "Examination of Accused",
+    "category": "Criminal Procedure",
+    "content": "Court shall question accused to explain evidence against him.",
+    "keywords": ["accused examination"],
+    "cases": []
+  },
+
+  {
+    "law": "Indian Evidence Act",
+    "section": "Section 24",
+    "title": "Confession caused by inducement",
+    "category": "Evidence Law",
+    "content": "Confession caused by threat, promise or inducement is irrelevant.",
+    "keywords": ["confession"],
+    "cases": []
+  },
+  {
+    "law": "Indian Evidence Act",
+    "section": "Section 32",
+    "title": "Dying Declaration",
+    "category": "Evidence Law",
+    "content": "Statement made by person as to cause of death is relevant.",
+    "keywords": ["dying declaration"],
+    "cases": ["Pakala Narayana Swami Case"]
+  },
+  {
+    "law": "Indian Evidence Act",
+    "section": "Section 45",
+    "title": "Opinion of Experts",
+    "category": "Evidence Law",
+    "content": "Opinions of experts in science, art or handwriting are relevant.",
+    "keywords": ["expert evidence"],
+    "cases": []
+  },
+
+  {
+    "law": "Constitution of India",
+    "section": "Article 14",
+    "title": "Equality Before Law",
+    "category": "Constitutional Law",
+    "content": "State shall not deny equality before law or equal protection of laws.",
+    "keywords": ["equality"],
+    "cases": ["Indra Sawhney v Union of India"]
+  },
+  {
+    "law": "Constitution of India",
+    "section": "Article 19",
+    "title": "Freedom of Speech and Expression",
+    "category": "Constitutional Law",
+    "content": "All citizens shall have the right to freedom of speech and expression.",
+    "keywords": ["speech", "freedom"],
+    "cases": ["Shreya Singhal v Union of India"]
+  },
+  {
+    "law": "IPC",
+    "section": "Section 498A",
+    "title": "Cruelty by Husband or Relatives",
+    "category": "Criminal Law",
+    "content": "Husband or relative subjecting a married woman to cruelty shall be punished.",
+    "keywords": ["domestic violence", "cruelty"],
+    "cases": ["Arnesh Kumar v State of Bihar"]
+  },
+  {
+    "law": "IPC",
+    "section": "Section 509",
+    "title": "Word or Gesture Insulting Modesty",
+    "category": "Criminal Law",
+    "content": "Uttering words or gestures intended to insult the modesty of a woman.",
+    "keywords": ["harassment"],
+    "cases": []
+  },
+  {
+    "law": "IPC",
+    "section": "Section 506",
+    "title": "Criminal Intimidation",
+    "category": "Criminal Law",
+    "content": "Threatening another with injury to person, reputation or property.",
+    "keywords": ["threat"],
+    "cases": []
+  },
+  {
+    "law": "IPC",
+    "section": "Section 511",
+    "title": "Attempt to Commit Offences",
+    "category": "Criminal Law",
+    "content": "Punishment for attempting to commit offences punishable with imprisonment.",
+    "keywords": ["attempt"],
+    "cases": []
+  },
+
+  {
+    "law": "CrPC",
+    "section": "Section 125",
+    "title": "Maintenance of Wife, Children and Parents",
+    "category": "Criminal Procedure",
+    "content": "Magistrate may order maintenance for wife, children or parents unable to maintain themselves.",
+    "keywords": ["maintenance"],
+    "cases": ["Shah Bano Case"]
+  },
+  {
+    "law": "CrPC",
+    "section": "Section 209",
+    "title": "Commitment to Sessions Court",
+    "category": "Criminal Procedure",
+    "content": "Cases triable by Sessions Court shall be committed by Magistrate.",
+    "keywords": ["sessions court"],
+    "cases": []
+  },
+  {
+    "law": "CrPC",
+    "section": "Section 239",
+    "title": "Discharge of Accused",
+    "category": "Criminal Procedure",
+    "content": "Magistrate may discharge accused if charge is groundless.",
+    "keywords": ["discharge"],
+    "cases": []
+  },
+  {
+    "law": "CrPC",
+    "section": "Section 320",
+    "title": "Compounding of Offences",
+    "category": "Criminal Procedure",
+    "content": "Certain offences may be compounded by parties with or without court permission.",
+    "keywords": ["settlement"],
+    "cases": []
+  },
+
+  {
+    "law": "Constitution of India",
+    "section": "Article 32",
+    "title": "Right to Constitutional Remedies",
+    "category": "Constitutional Law",
+    "content": "Right to approach Supreme Court for enforcement of Fundamental Rights.",
+    "keywords": ["writ petition"],
+    "cases": ["Kesavananda Bharati v State of Kerala"]
+  },
+  {
+    "law": "Constitution of India",
+    "section": "Article 226",
+    "title": "Power of High Courts to Issue Writs",
+    "category": "Constitutional Law",
+    "content": "High Courts may issue writs for enforcement of fundamental rights and other purposes.",
+    "keywords": ["high court", "writ"],
+    "cases": []
+  },
+
+  {
+    "law": "Information Technology Act, 2000",
+    "section": "Section 43",
+    "title": "Penalty for Damage to Computer",
+    "category": "Cyber Law",
+    "content": "Unauthorized access, downloading or introducing virus to computer system is punishable.",
+    "keywords": ["hacking", "cybercrime"],
+    "cases": []
+  },
+  {
+    "law": "Information Technology Act, 2000",
+    "section": "Section 66",
+    "title": "Computer Related Offences",
+    "category": "Cyber Law",
+    "content": "If any person dishonestly or fraudulently commits acts under Section 43, punishment applies.",
+    "keywords": ["cyber fraud"],
+    "cases": []
+  },
+  {
+    "law": "Information Technology Act, 2000",
+    "section": "Section 67",
+    "title": "Publishing Obscene Material Online",
+    "category": "Cyber Law",
+    "content": "Publishing or transmitting obscene material in electronic form is punishable.",
+    "keywords": ["online abuse"],
+    "cases": []
+  },
+
+  {
+    "law": "NDPS Act",
+    "section": "Section 8",
+    "title": "Prohibition of Certain Operations",
+    "category": "Narcotics Law",
+    "content": "Production, possession, sale, purchase or transport of narcotic drugs is prohibited.",
+    "keywords": ["drugs"],
+    "cases": []
+  },
+  {
+    "law": "NDPS Act",
+    "section": "Section 21",
+    "title": "Punishment for Manufactured Drugs",
+    "category": "Narcotics Law",
+    "content": "Punishment for contravention relating to manufactured drugs and preparations.",
+    "keywords": ["drug trafficking"],
+    "cases": []
+  },
+
+  {
+    "law": "POCSO Act",
+    "section": "Section 3",
+    "title": "Penetrative Sexual Assault",
+    "category": "Child Protection Law",
+    "content": "Defines penetrative sexual assault against a child.",
+    "keywords": ["child abuse"],
+    "cases": []
+  },
+  {
+    "law": "POCSO Act",
+    "section": "Section 4",
+    "title": "Punishment for Penetrative Sexual Assault",
+    "category": "Child Protection Law",
+    "content": "Punishment for penetrative sexual assault on a child.",
+    "keywords": ["child protection"],
+    "cases": []
+  },
+
+  {
+    "law": "Indian Evidence Act",
+    "section": "Section 101",
+    "title": "Burden of Proof",
+    "category": "Evidence Law",
+    "content": "Whoever desires court to give judgment as to legal right must prove facts asserted.",
+    "keywords": ["burden of proof"],
+    "cases": []
+  },
+  {
+    "law": "Indian Evidence Act",
+    "section": "Section 114",
+    "title": "Presumption of Existence of Facts",
+    "category": "Evidence Law",
+    "content": "Court may presume existence of certain facts based on common course of events.",
+    "keywords": ["presumption"],
+    "cases": []
+  },
+  {
+    "law": "Consumer Protection Act, 2019",
+    "section": "Section 2(7)",
+    "title": "Definition of Consumer",
+    "category": "Consumer Law",
+    "content": "Consumer means any person who buys goods or hires services for consideration.",
+    "keywords": ["consumer rights"],
+    "cases": []
+  },
+  {
+    "law": "Consumer Protection Act, 2019",
+    "section": "Section 35",
+    "title": "Filing of Complaint",
+    "category": "Consumer Law",
+    "content": "A consumer may file a complaint before the District Commission.",
+    "keywords": ["consumer complaint"],
+    "cases": []
+  },
+  {
+    "law": "Consumer Protection Act, 2019",
+    "section": "Section 38",
+    "title": "Procedure on Admission of Complaint",
+    "category": "Consumer Law",
+    "content": "District Commission shall refer complaint copy to opposite party.",
+    "keywords": ["consumer procedure"],
+    "cases": []
+  },
+
+  {
+    "law": "Civil Procedure Code (CPC)",
+    "section": "Section 9",
+    "title": "Courts to Try All Civil Suits",
+    "category": "Civil Law",
+    "content": "Civil courts have jurisdiction to try all suits of civil nature unless barred.",
+    "keywords": ["civil suit"],
+    "cases": []
+  },
+  {
+    "law": "Civil Procedure Code (CPC)",
+    "section": "Order 7 Rule 1",
+    "title": "Particulars in Plaint",
+    "category": "Civil Law",
+    "content": "Plaint must contain material facts and cause of action.",
+    "keywords": ["plaint"],
+    "cases": []
+  },
+  {
+    "law": "Civil Procedure Code (CPC)",
+    "section": "Order 39 Rule 1",
+    "title": "Temporary Injunction",
+    "category": "Civil Law",
+    "content": "Court may grant temporary injunction to prevent damage or injury.",
+    "keywords": ["injunction"],
+    "cases": []
+  },
+
+  {
+    "law": "Motor Vehicles Act, 1988",
+    "section": "Section 134",
+    "title": "Duty of Driver in Case of Accident",
+    "category": "Motor Law",
+    "content": "Driver must take reasonable steps to secure medical attention for injured person.",
+    "keywords": ["accident"],
+    "cases": []
+  },
+  {
+    "law": "Motor Vehicles Act, 1988",
+    "section": "Section 146",
+    "title": "Insurance Against Third Party Risk",
+    "category": "Motor Law",
+    "content": "No person shall use vehicle without insurance policy.",
+    "keywords": ["insurance"],
+    "cases": []
+  },
+  {
+    "law": "Motor Vehicles Act, 1988",
+    "section": "Section 166",
+    "title": "Application for Compensation",
+    "category": "Motor Law",
+    "content": "Application for compensation arising from accident may be filed.",
+    "keywords": ["compensation"],
+    "cases": []
+  },
+
+  {
+    "law": "Companies Act, 2013",
+    "section": "Section 2(20)",
+    "title": "Definition of Company",
+    "category": "Corporate Law",
+    "content": "Company means a company incorporated under this Act.",
+    "keywords": ["company"],
+    "cases": []
+  },
+  {
+    "law": "Companies Act, 2013",
+    "section": "Section 3",
+    "title": "Formation of Company",
+    "category": "Corporate Law",
+    "content": "A company may be formed for any lawful purpose.",
+    "keywords": ["incorporation"],
+    "cases": []
+  },
+  {
+    "law": "Companies Act, 2013",
+    "section": "Section 447",
+    "title": "Punishment for Fraud",
+    "category": "Corporate Law",
+    "content": "Fraud under Companies Act is punishable with imprisonment and fine.",
+    "keywords": ["corporate fraud"],
+    "cases": []
+  },
+
+  {
+    "law": "Hindu Marriage Act, 1955",
+    "section": "Section 13",
+    "title": "Divorce",
+    "category": "Family Law",
+    "content": "Marriage may be dissolved on grounds like cruelty, adultery, desertion.",
+    "keywords": ["divorce"],
+    "cases": []
+  },
+  {
+    "law": "Hindu Succession Act, 1956",
+    "section": "Section 6",
+    "title": "Devolution of Interest in Coparcenary Property",
+    "category": "Family Law",
+    "content": "Daughters have equal rights in coparcenary property.",
+    "keywords": ["inheritance"],
+    "cases": ["Vineeta Sharma v Rakesh Sharma"]
+  },
+
+  {
+    "law": "Indian Contract Act, 1872",
+    "section": "Section 10",
+    "title": "What Agreements are Contracts",
+    "category": "Contract Law",
+    "content": "Agreements enforceable by law are contracts if made by free consent.",
+    "keywords": ["contract"],
+    "cases": []
+  },
+  {
+    "law": "Indian Contract Act, 1872",
+    "section": "Section 73",
+    "title": "Compensation for Breach",
+    "category": "Contract Law",
+    "content": "Party suffering breach is entitled to compensation.",
+    "keywords": ["breach of contract"],
+    "cases": []
+  },
+
+  {
+    "law": "Factories Act, 1948",
+    "section": "Section 7A",
+    "title": "General Duties of Occupier",
+    "category": "Labour Law",
+    "content": "Occupier shall ensure health and safety of workers.",
+    "keywords": ["worker safety"],
+    "cases": []
+  },
+  {
+    "law": "Minimum Wages Act, 1948",
+    "section": "Section 12",
+    "title": "Payment of Minimum Wages",
+    "category": "Labour Law",
+    "content": "Employer shall pay wages not less than minimum rates fixed.",
+    "keywords": ["minimum wages"],
+    "cases": []
+  },
+  {
+    "law": "Right to Information Act, 2005",
+    "section": "Section 3",
+    "title": "Right to Information",
+    "category": "Administrative Law",
+    "content": "All citizens shall have the right to information under this Act.",
+    "keywords": ["RTI", "information rights"],
+    "cases": []
+  },
+  {
+    "law": "Right to Information Act, 2005",
+    "section": "Section 6",
+    "title": "Request for Obtaining Information",
+    "category": "Administrative Law",
+    "content": "A person may make a request in writing to the Public Information Officer.",
+    "keywords": ["RTI application"],
+    "cases": []
+  },
+
+  {
+    "law": "Arbitration and Conciliation Act, 1996",
+    "section": "Section 7",
+    "title": "Arbitration Agreement",
+    "category": "Arbitration Law",
+    "content": "Arbitration agreement means an agreement to submit disputes to arbitration.",
+    "keywords": ["arbitration"],
+    "cases": []
+  },
+  {
+    "law": "Arbitration and Conciliation Act, 1996",
+    "section": "Section 34",
+    "title": "Application for Setting Aside Arbitral Award",
+    "category": "Arbitration Law",
+    "content": "Court may set aside arbitral award on limited grounds.",
+    "keywords": ["arbitral award"],
+    "cases": []
+  },
+
+  {
+    "law": "Environment Protection Act, 1986",
+    "section": "Section 3",
+    "title": "Power of Central Government",
+    "category": "Environmental Law",
+    "content": "Central Government may take measures to protect environment.",
+    "keywords": ["environment"],
+    "cases": []
+  },
+  {
+    "law": "Air (Prevention and Control of Pollution) Act, 1981",
+    "section": "Section 21",
+    "title": "Consent to Establish",
+    "category": "Environmental Law",
+    "content": "No person shall establish industry without consent of State Board.",
+    "keywords": ["pollution control"],
+    "cases": []
+  },
+
+  {
+    "law": "GST Act, 2017",
+    "section": "Section 9",
+    "title": "Levy and Collection",
+    "category": "Tax Law",
+    "content": "GST shall be levied on supply of goods or services.",
+    "keywords": ["GST"],
+    "cases": []
+  },
+  {
+    "law": "GST Act, 2017",
+    "section": "Section 16",
+    "title": "Input Tax Credit",
+    "category": "Tax Law",
+    "content": "Registered person shall be entitled to take credit of input tax.",
+    "keywords": ["tax credit"],
+    "cases": []
+  },
+
+  {
+    "law": "Banking Regulation Act, 1949",
+    "section": "Section 35A",
+    "title": "Power of RBI to Issue Directions",
+    "category": "Banking Law",
+    "content": "Reserve Bank may issue directions to banking companies.",
+    "keywords": ["RBI"],
+    "cases": []
+  },
+
+  {
+    "law": "Insolvency and Bankruptcy Code, 2016",
+    "section": "Section 7",
+    "title": "Initiation of CIRP by Financial Creditor",
+    "category": "Insolvency Law",
+    "content": "Financial creditor may file application to initiate insolvency process.",
+    "keywords": ["insolvency"],
+    "cases": []
+  },
+
+  {
+    "law": "Protection of Women from Domestic Violence Act, 2005",
+    "section": "Section 12",
+    "title": "Application to Magistrate",
+    "category": "Women Protection Law",
+    "content": "Aggrieved woman may present application to Magistrate for relief.",
+    "keywords": ["domestic violence"],
+    "cases": []
+  },
+
+  {
+    "law": "Limitation Act, 1963",
+    "section": "Section 5",
+    "title": "Extension of Prescribed Period",
+    "category": "Civil Law",
+    "content": "Court may condone delay if sufficient cause is shown.",
+    "keywords": ["delay condonation"],
+    "cases": []
+  },
+
+  {
+    "law": "Civil Procedure Code (CPC)",
+    "section": "Section 96",
+    "title": "Appeal from Original Decree",
+    "category": "Civil Law",
+    "content": "Appeal shall lie from every decree passed by any court exercising original jurisdiction.",
+    "keywords": ["appeal"],
+    "cases": []
+  },
+
+  {
+    "law": "Human Rights Act, 1993",
+    "section": "Section 12",
+    "title": "Functions of Commission",
+    "category": "Human Rights Law",
+    "content": "National Human Rights Commission shall inquire into violation of human rights.",
+    "keywords": ["human rights"],
+    "cases": []
+  },
+
+  {
+    "law": "Prevention of Corruption Act, 1988",
+    "section": "Section 7",
+    "title": "Public Servant Taking Bribe",
+    "category": "Anti-Corruption Law",
+    "content": "Public servant taking undue advantage is punishable.",
+    "keywords": ["corruption"],
+    "cases": []
+  },
+
+  {
+    "law": "Prevention of Money Laundering Act, 2002",
+    "section": "Section 3",
+    "title": "Offence of Money Laundering",
+    "category": "Financial Crime Law",
+    "content": "Whosoever directly or indirectly attempts to indulge in money laundering commits offence.",
+    "keywords": ["money laundering"],
+    "cases": []
+  },
+
+  {
+    "law": "Juvenile Justice Act, 2015",
+    "section": "Section 2(12)",
+    "title": "Child in Conflict with Law",
+    "category": "Child Law",
+    "content": "A child alleged or found to have committed an offence and who has not completed eighteen years of age.",
+    "keywords": ["juvenile"],
+    "cases": []
+  },
+
+  {
+    "law": "Transfer of Property Act, 1882",
+    "section": "Section 54",
+    "title": "Sale of Immovable Property",
+    "category": "Property Law",
+    "content": "Sale is transfer of ownership in exchange for price paid or promised.",
+    "keywords": ["property sale"],
+    "cases": []
+  },
+
+  {
+    "law": "Specific Relief Act, 1963",
+    "section": "Section 10",
+    "title": "Specific Performance of Contract",
+    "category": "Contract Law",
+    "content": "Specific performance may be enforced when monetary compensation is inadequate.",
+    "keywords": ["specific performance"],
+    "cases": []
+  }
+]    
