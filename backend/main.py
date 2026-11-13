@@ -39,8 +39,8 @@ except Exception as e:
 # KEYS
 # =====================================
 
-OPENROUTER_KEY = "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"
-NEWS_API_KEY   = "eef932a2fab9485fb342373b948d70ea"
+OPENROUTER_KEY = "......"
+NEWS_API_KEY   = "......"
 
 # =====================================
 # LOAD MODEL
